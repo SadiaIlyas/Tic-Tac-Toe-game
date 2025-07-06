@@ -2,11 +2,11 @@
 A simple 2-player **Tic Tac Toe game** built using Python.  
 This project is a fun console-based game where two users take turns to play and the game checks for a win or draw.
 ## 📌 Features
-- ✅ Two-player mode (X vs O)
-- 🧠 Smart win condition checking
-- ⚠️ Input validation for invalid or taken moves
-- 🎯 Clean board layout
-- 🐍 100% written in Python (no external libraries)
+-  Two-player mode (X vs O)
+-  Smart win condition checking
+-  Input validation for invalid or taken moves
+-  Clean board layout
+-  100% written in Python (no external libraries)
 ## 📷 Demo
  X | O | X
 ---+---+---
